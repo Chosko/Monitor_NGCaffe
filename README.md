@@ -1,13 +1,11 @@
-Monitor_NGCaffe v2.0
-=============
-Monitor realizzato per il progetto NG_CAFFE` per l'esame di Intelligenza Artificiale e Laboratorio a.a. 2013/2014 - Università degli Studi di Torino
+# Monitor v2.1
 
-Alessandro Basile - Tobia Giani
+Monitor realizzato per il progetto RESCUE per l'esame di Intelligenza Artificiale e Laboratorio a.a. 2014/2015 - Università degli Studi di Torino
+
+Ruben Caliandro, Marco Di Forti, Marco Corona
 
 Interfaccia a Clips realizzata in Java mediante l'utilizzo della libreria CLIPSjni
 
-Per scaricare:
+## Acknowledgements
 
-    1. Netbeans -> Team -> Git -> Clone
-
-    2. Repository URL:  https://github.com/AlexBasile/Monitor_NGCaffe.git
+Questo progetto è un fork di 'Monitor_NGCaffe v2.0', sviluppato da Alessandro Basile e Tobia Giani.
